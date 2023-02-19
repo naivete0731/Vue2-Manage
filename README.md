@@ -59,12 +59,6 @@ npm run local (访问本地后台系统，需运行node-elm后台系统)
 - [x] 富文本编辑器 -- 完成
 
 
-# 部分截图
-
-
-<img src="https://github.com/bailicangdu/vue2-manage/blob/master/screenshots/manage_home.png"/>
-
-<img src="https://github.com/bailicangdu/vue2-manage/blob/master/screenshots/manage_shop.png"/>
 
 
 
